@@ -1,15 +1,23 @@
 body {
     font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
 }
 
 main{
     background-color: #2A4480;
+    font-size: 25px;
+}
+
+.container{
+    width: 900px;
+    margin: 0px auto 0px auto;
 }
 
 
 li{
     color:white;
-    width: 200px;
+    width: 400px;
     margin-bottom: 30px;
 }
 
@@ -53,7 +61,7 @@ header{
 }
 
 .link-text b:hover{
-    background-color: black;
+    background-color: wheat;
 }
 
 .index_p:hover{
@@ -78,6 +86,14 @@ nav{
     background-color: #2A4480;
 }
 
-p{
-    
+.h2{
+    color: white;
+}
+
+div{
+    color: white;
+}
+
+.link-text{
+    color: #6C8CD5;
 }
